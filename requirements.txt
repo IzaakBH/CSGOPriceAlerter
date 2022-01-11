@@ -4,3 +4,4 @@ contextlib
 requests
 sqlite3
 plotly
+collections
